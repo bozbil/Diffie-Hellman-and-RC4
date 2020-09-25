@@ -1,4 +1,4 @@
-# Lab Assignment
+# Question
 Suppose that user A wishes to set up a connection with user B and use a
 secret key to encrypt messages on that connection. The two users, each is
 going to generates a one-time private key and calculates a public key. These
